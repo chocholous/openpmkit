@@ -1,6 +1,10 @@
 {
-  "name": "OpenPMKit Marketplace",
+  "name": "openpmkit-marketplace",
   "description": "AI-powered PM workflows for Product Managers",
+  "owner": {
+    "name": "graemerycyk",
+    "email": ""
+  },
   "plugins": [
     {
       "name": "openpmkit",
@@ -8,7 +12,7 @@
       "version": "1.0.0",
       "source": {
         "source": "github",
-        "repo": "graemerycyk/openpmkit",
+        "repo": "chocholous/openpmkit",
         "path": "plugin"
       }
     }
